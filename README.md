@@ -1,4 +1,3 @@
-## Hi there 👋
 # Benjamin Pham
 
 I am a cybersecurity student currently completing the University of Florida Certified Cybersecurity Associate/Analyst Program. I am developing hands-on skills in IT support, system administration, networking, security analysis, and cloud security.
