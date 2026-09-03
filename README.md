@@ -24,7 +24,7 @@ A growing collection of hands-on labs, security investigations, command-line exe
 
 * [VirusTotal Malware Analysis](https://github.com/Benpham3466-cyb/cybersecurity-portfolio/blob/main/projects/virustotal-malware-analysis.md)
 * [Linux Command-Line and Log Analysis](https://github.com/Benpham3466-cyb/cybersecurity-portfolio/blob/main/projects/linux-command-line-and-log-analysis.md)
-- [Windows User, Group, and File Management](https://github.com/Benpham3466-cyb/cybersecurity-portfolio/blob/main/projects/windows-user-group-file-management.md)
+* [Windows User, Group, and File Management](https://github.com/Benpham3466-cyb/cybersecurity-portfolio/blob/main/projects/windows-user-group-file-management.md)
 
 ## Currently Learning
 
