@@ -1,56 +1,54 @@
 # Benjamin Pham
 
-I am a cybersecurity student currently completing the University of Florida Certified Cybersecurity Associate/Analyst Program. I am developing hands-on skills in IT support, system administration, networking, security analysis, and cloud security.
+Cybersecurity student developing practical experience in endpoint threat hunting, network analysis, malware triage, system administration, and cloud security.
 
-My customer-service background has taught me how to communicate clearly, troubleshoot problems under pressure, document important details, and work effectively with a team. I am currently seeking entry-level IT support, technical support, and cybersecurity internship opportunities.
+## About Me
+
+I am a University of South Florida student pursuing a B.S. in Exercise Science while completing the University of Florida's 18-week Certified Cybersecurity Associate Program.
+
+Through hands-on labs, I have investigated macOS endpoint activity with osquery, analyzed suspicious files with VirusTotal, examined network traffic with Wireshark, and practiced Windows and Linux administration, access control, home-network hardening, virtualization, and cloud-security fundamentals.
+
+My customer-service background has strengthened my ability to communicate clearly, troubleshoot under pressure, document important details, and work effectively with users and teams. I am preparing for entry-level IT support, cybersecurity internship, and SOC analyst opportunities.
 
 ## Technical Skills
 
-* Linux and Windows administration
-* Command-line troubleshooting
-* Networking fundamentals and common protocols
-* Wireshark packet analysis
-* VirusTotal malware investigation
-* User, group, and permission management
-* Virtualization and virtual machines
-* AWS and cloud-security fundamentals
-* Technical documentation and customer support
+- macOS threat hunting with osquery
+- Linux and Windows command-line administration
+- Networking fundamentals and common protocols
+- Wireshark packet analysis
+- VirusTotal malware investigation
+- User, group, and permission management
+- Virtualization and virtual machines
+- AWS and cloud-security fundamentals
+- Technical troubleshooting and documentation
+- Customer service and end-user support
 
 ## Featured Portfolio
 
-### [Cybersecurity Portfolio](https://github.com/Benpham3466-cyb/cybersecurity-portfolio)
+### [Cybersecurity Portfolio](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio)
 
-A growing collection of hands-on labs, security investigations, command-line exercises, and technical documentation.
+A growing collection of hands-on labs, security investigations, command-line exercises, evidence, remediation recommendations, and lessons learned.
 
-* [VirusTotal Malware Analysis](https://github.com/Benpham3466-cyb/cybersecurity-portfolio/blob/main/projects/virustotal-malware-analysis.md)
-* [Linux Command-Line and Log Analysis](https://github.com/Benpham3466-cyb/cybersecurity-portfolio/blob/main/projects/linux-command-line-and-log-analysis.md)
-* [Windows User, Group, and File Management](https://github.com/Benpham3466-cyb/cybersecurity-portfolio/blob/main/projects/windows-user-group-file-management.md)
-* [Home Network Security Assessment](https://github.com/Benpham3466-cyb/cybersecurity-portfolio/blob/main/projects/home-network-security-assessment.md)
-* [Wireshark Protocol Security Analysis](https://github.com/Benpham3466-cyb/cybersecurity-portfolio/blob/main/projects/wireshark-protocol-security-analysis.md)
-  
+- [macOS Threat Hunting with osquery](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/macos-osquery-threat-hunting.md)
+- [VirusTotal Malware Analysis](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/virustotal-malware-analysis.md)
+- [Linux Command-Line and Log Analysis](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/linux-command-line-and-log-analysis.md)
+- [Windows User, Group, and File Management](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/windows-user-group-file-management.md)
+- [Home Network Security Assessment](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/home-network-security-assessment.md)
+- [Wireshark Protocol Security Analysis](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/wireshark-protocol-security-analysis.md)
+
+## Education and Training
+
+- **University of Florida** — Certified Cybersecurity Associate Program, 18-week program, in progress
+- **University of South Florida** — B.S. Exercise Science, in progress
 
 ## Currently Learning
 
-* Virtualization and cloud computing
-* AWS EC2, VPCs, storage, and monitoring
-* Linux and Windows system administration
-* Security monitoring and incident response
+- YARA rule development and file detection
+- SIEM monitoring with Wazuh and Sysmon
+- Security alert investigation and incident response
+- Cross-platform endpoint monitoring
+- Linux and Windows system administration
 
 ## Career Goal
 
-My immediate goal is to begin my professional technology career in an IT support, technical-support, or cybersecurity internship role while continuing to develop practical security experience.
-
-<!--
-**Benpham3466-cyb/Benpham3466-cyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My immediate goal is to begin my professional technology career in an IT support, technical-support, cybersecurity internship, or entry-level SOC role while continuing to develop practical security experience.
