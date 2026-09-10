@@ -29,7 +29,7 @@ My customer-service background has strengthened my ability to communicate clearl
 
 A growing collection of hands-on labs, security investigations, command-line exercises, evidence, remediation recommendations, and lessons learned.
 
-- [Wireshark TCP SYN Scan Investigation](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/wireshark-tcp-syn-scan-investigation.md) — Guided analysis of scanning activity, UTC timestamps, and a SYN → SYN/ACK → RST exchange.
+- [Wireshark TCP SYN Scan Investigation](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/wireshark-tcp-syn-scan-investigation.md) 
 - [macOS Threat Hunting with osquery](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/macos-osquery-threat-hunting.md)
 - [VirusTotal Malware Analysis](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/virustotal-malware-analysis.md)
 - [Linux Command-Line and Log Analysis](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/linux-command-line-and-log-analysis.md)
