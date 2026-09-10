@@ -1,18 +1,19 @@
 # Benjamin Pham
 
-Cybersecurity student developing practical experience in endpoint threat hunting, network analysis, malware triage, system administration, and cloud security.
+Cybersecurity student developing practical experience in endpoint threat hunting, detection engineering, network analysis, malware triage, system administration, and cloud security.
 
 ## About Me
 
 I am a University of South Florida student pursuing a B.S. in Exercise Science while completing the University of Florida's 18-week Certified Cybersecurity Associate Program.
 
-Through hands-on labs, I have investigated macOS endpoint activity with osquery, analyzed suspicious files with VirusTotal, examined network traffic with Wireshark, and practiced Windows and Linux administration, access control, home-network hardening, virtualization, and cloud-security fundamentals.
+Through hands-on labs, I have investigated macOS endpoint activity with osquery, created and tuned YARA detection rules, analyzed suspicious files with VirusTotal, examined network traffic with Wireshark, and practiced Windows and Linux administration, access control, home-network hardening, virtualization, and cloud-security fundamentals.
 
 My customer-service background has strengthened my ability to communicate clearly, troubleshoot under pressure, document important details, and work effectively with users and teams. I am preparing for entry-level IT support, cybersecurity internship, and SOC analyst opportunities.
 
 ## Technical Skills
 
 - macOS threat hunting with osquery
+- YARA rule development, testing, and false-positive tuning
 - Linux and Windows command-line administration
 - Networking fundamentals and common protocols
 - Wireshark packet analysis
@@ -29,7 +30,8 @@ My customer-service background has strengthened my ability to communicate clearl
 
 A growing collection of hands-on labs, security investigations, command-line exercises, evidence, remediation recommendations, and lessons learned.
 
-- [Wireshark TCP SYN Scan Investigation](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/wireshark-tcp-syn-scan-investigation.md) 
+- [YARA File Detection and Rule Tuning](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/yara-file-detection-rule-tuning.md)
+- [Wireshark TCP SYN Scan Investigation](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/wireshark-tcp-syn-scan-investigation.md)
 - [macOS Threat Hunting with osquery](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/macos-osquery-threat-hunting.md)
 - [VirusTotal Malware Analysis](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/virustotal-malware-analysis.md)
 - [Linux Command-Line and Log Analysis](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/linux-command-line-and-log-analysis.md)
@@ -44,11 +46,11 @@ A growing collection of hands-on labs, security investigations, command-line exe
 
 ## Currently Learning
 
-- YARA rule development and file detection
-- SIEM monitoring with Wazuh and Sysmon
-- Security alert investigation and incident response
+- Authentication-log investigation and event correlation
+- SIEM alert investigation
+- Windows endpoint telemetry with Sysmon and Wazuh
+- Incident-response workflow and documentation
 - Cross-platform endpoint monitoring
-- Linux and Windows system administration
 
 ## Career Goal
 
