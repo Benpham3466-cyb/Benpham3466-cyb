@@ -30,6 +30,7 @@ My customer-service background has strengthened my ability to communicate clearl
 
 A growing collection of hands-on labs, security investigations, command-line exercises, evidence, remediation recommendations, and lessons learned.
 
+- [macOS Authentication Log Investigation](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/macos-authentication-log-investigation.md)
 - [YARA File Detection and Rule Tuning](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/yara-file-detection-rule-tuning.md)
 - [Wireshark TCP SYN Scan Investigation](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/wireshark-tcp-syn-scan-investigation.md)
 - [macOS Threat Hunting with osquery](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/macos-osquery-threat-hunting.md)
