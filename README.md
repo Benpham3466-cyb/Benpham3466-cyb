@@ -47,7 +47,7 @@ A growing collection of hands-on labs, security investigations, command-line exe
 
 ## Currently Learning
 
-- Authentication-log investigation and event correlation
+- Microsoft Sentinel and KQL query development
 - SIEM alert investigation
 - Windows endpoint telemetry with Sysmon and Wazuh
 - Incident-response workflow and documentation
