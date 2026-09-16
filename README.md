@@ -30,6 +30,7 @@ My customer-service background has strengthened my ability to communicate clearl
 
 A growing collection of hands-on labs, security investigations, command-line exercises, evidence, remediation recommendations, and lessons learned.
 
+- [Windows Authentication Investigation — Part 1](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/windows-authentication-investigation.md)
 - [Phishing Email Analysis — BTLO](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/btlo-phishing-email-analysis.md)
 - [Microsoft Sentinel Tag-Change Investigation](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/sentinel-tag-change-investigation.md) 
 - [macOS Authentication Log Investigation](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/macos-authentication-log-investigation.md)
