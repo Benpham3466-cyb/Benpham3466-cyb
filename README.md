@@ -1,63 +1,36 @@
-# Benjamin Pham
+# Ben Pham
 
-Cybersecurity student developing practical experience in endpoint threat hunting, detection engineering, network analysis, malware triage, system administration, and cloud security.
+Cybersecurity student in Tampa, Florida, building a portfolio of home-lab investigations, detection tests, and clear case notes.
 
-## About Me
+## About me
 
-I am a University of South Florida student pursuing a B.S. in Exercise Science while completing the University of Florida's 18-week Certified Cybersecurity Associate Program.
+I’m working toward my first IT support, cybersecurity internship, or entry-level SOC role. I’m completing the University of Florida’s 18-week Certified Cybersecurity Associate Program while pursuing a B.S. in Exercise Science at the University of South Florida.
 
-Through hands-on labs, I have investigated macOS endpoint activity with osquery, created and tuned YARA detection rules, analyzed suspicious files with VirusTotal, examined network traffic with Wireshark, and practiced Windows and Linux administration, access control, home-network hardening, virtualization, and cloud-security fundamentals.
+I like figuring out what actually happened: tracing an alert back to the source event, checking the timeline, and explaining why I would close a case or keep investigating. My customer-service experience taught me to stay calm under pressure, communicate clearly, and follow through.
 
-My customer-service background has strengthened my ability to communicate clearly, troubleshoot under pressure, document important details, and work effectively with users and teams. I am preparing for entry-level IT support, cybersecurity internship, and SOC analyst opportunities.
+## Selected investigations
 
-## Technical Skills
+- **[Windows authentication through Wazuh](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/windows-authentication-through-wazuh.md)** — Checked five alerts against Windows Security events and documented why the controlled account and login activity was a benign true positive.
+- **[Sysmon collection and Wazuh detection testing](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/wazuh-sysmon-detection-investigation.md)** — Verified event receipt separately from alert generation, tested a scoped custom rule, and preserved exported evidence with SHA-256 checks.
+- **[Personal-mailbox phishing investigation](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/personal-mailbox-phishing-investigation.md)** — Examined sender headers and billing-link destinations, reported the message as phishing, and documented what the email could not prove.
+- **[Microsoft Sentinel and KQL](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/sentinel-tag-change-investigation.md)** — Correlated Azure tag-change events with alerts and distinguished authorized activity from duplicate detections.
 
-- macOS threat hunting with osquery
-- YARA rule development, testing, and false-positive tuning
-- Linux and Windows command-line administration
-- Networking fundamentals and common protocols
-- Wireshark packet analysis
-- VirusTotal malware investigation
-- User, group, and permission management
-- Virtualization and virtual machines
-- AWS and cloud-security fundamentals
-- Technical troubleshooting and documentation
-- Customer service and end-user support
+**[View the full cybersecurity portfolio](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio)** for write-ups, evidence, detection logic, and limitations.
 
-## Featured Portfolio
+## Tools and skills I’ve used
 
-### [Cybersecurity Portfolio](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio)
+- **SIEM and endpoint logs:** Wazuh, Sysmon, Windows Security events, Microsoft Sentinel, KQL
+- **Network and email analysis:** Wireshark, TCP/IP fundamentals, email headers, phishing indicators
+- **Detection and file triage:** YARA rules tested on harmless samples, VirusTotal, SHA-256 verification
+- **Systems:** PowerShell, Linux command line, macOS/osquery, local accounts and permissions, virtual machines
+- **Reporting:** UTC timelines, evidence handling, concise case notes, and documented investigation limits
 
-A growing collection of hands-on labs, security investigations, command-line exercises, evidence, remediation recommendations, and lessons learned.
+## Current project
 
-- [Windows, Sysmon, and Wazuh Home SOC Lab](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/windows-sysmon-wazuh-lab.md)
-- [Windows Authentication Investigation — Part 1](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/windows-authentication-investigation.md)
-- [Personal-Mailbox Phishing Investigation](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/personal-mailbox-phishing-investigation.md)
-- [Phishing Email Analysis — BTLO](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/btlo-phishing-email-analysis.md)
-- [Microsoft Sentinel Tag-Change Investigation](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/sentinel-tag-change-investigation.md) 
-- [macOS Authentication Log Investigation](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/macos-authentication-log-investigation.md)
-- [YARA File Detection and Rule Tuning](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/yara-file-detection-rule-tuning.md)
-- [Wireshark TCP SYN Scan Investigation](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/wireshark-tcp-syn-scan-investigation.md)
-- [macOS Threat Hunting with osquery](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/macos-osquery-threat-hunting.md)
-- [VirusTotal Malware Analysis](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/virustotal-malware-analysis.md)
-- [Linux Command-Line and Log Analysis](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/linux-command-line-and-log-analysis.md)
-- [Windows User, Group, and File Management](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/windows-user-group-file-management.md)
-- [Home Network Security Assessment](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/home-network-security-assessment.md)
-- [Wireshark Protocol Security Analysis](https://github.com/Benpham3466-cyb/Cybersecurity-Portfolio/blob/main/projects/wireshark-protocol-security-analysis.md)
+I’m investigating a LokiBot sample in a network-disconnected Windows VM. I verified its hash against the source reference, inspected it in Ghidra, and saved Sysmon and Process Monitor recordings from the first execution. Next, I’m checking the process tree and recorded behavior. Sample-specific YARA/Sigma detections and the final report are still ahead.
 
-## Education and Training
+My goal is to understand the evidence well enough to explain my decisions in my own words.
 
-- **University of Florida** — Certified Cybersecurity Associate Program, 18-week program, in progress
-- **University of South Florida** — B.S. Exercise Science, in progress
+## Goals
 
-## Currently Learning
-
-- Microsoft Sentinel and KQL query development
-- SIEM alert investigation
-- Windows endpoint telemetry with Sysmon and Wazuh
-- Incident-response workflow and documentation
-- Cross-platform endpoint monitoring
-
-## Career Goal
-
-My immediate goal is to begin my professional technology career in an IT support, technical-support, cybersecurity internship, or entry-level SOC role while continuing to develop practical security experience.
+I’m passionate about cybersecurity and eager to keep learning. I’m open to opportunities where I can contribute, learn from experienced teammates, and grow my knowledge and understanding of technology and security.
