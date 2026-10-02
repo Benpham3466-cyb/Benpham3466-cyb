@@ -25,9 +25,9 @@ I like figuring out what actually happened: tracing an alert back to the source 
 - **Systems:** PowerShell, Linux command line, macOS/osquery, local accounts and permissions, virtual machines
 - **Reporting:** UTC timelines, evidence handling, concise case notes, and documented investigation limits
 
-## Current project
+## Current project — Malware analysis
 
-I’m investigating a LokiBot sample in a network-disconnected Windows VM. I verified its hash against the source reference, inspected it in Ghidra, and saved Sysmon and Process Monitor recordings from the first execution. Next, I’m checking the process tree and recorded behavior. Sample-specific YARA/Sigma detections and the final report are still ahead.
+My current malware analysis project focuses on a LokiBot sample in a network-disconnected Windows VM. I verified its hash against the source reference, inspected it in Ghidra, and saved Sysmon and Process Monitor recordings from the first execution. Next, I’m checking the process tree and recorded behavior. Sample-specific YARA/Sigma detections and the final report are still ahead.
 
 My goal is to understand the evidence well enough to explain my decisions in my own words.
 
